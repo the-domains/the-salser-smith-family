@@ -1,14 +1,16 @@
+layout_spectrum: 0.703405597362907
+typography_spectrum: 0.8590889810782737
 color:
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
-  brandStrength: 0.2458662991411984
-  lightness: 0.06616187165491283
-  saturation: 0.6953598719555885
-  rhythmicContrast: 0.3279166794382036
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.4743059830060505
+  lightness: 0.20221652100508167
+  saturation: 0.2745055549656327
+  rhythmicContrast: 0.5708442291810112
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -17,9 +19,32 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: The Salser-Smith Family
-layout_spectrum: 0.48981453594751656
-typography_spectrum: 0.4455417189747095
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac5d7b98-554e-4dbf-a860-4bf151a488fe.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac5d7b98-554e-4dbf-a860-4bf151a488fe.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 title: The Salser-Smith Family
 description: Coming Soon!
 favicon: >-
