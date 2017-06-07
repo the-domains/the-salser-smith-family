@@ -40,13 +40,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/218176976'
 title: Chris Explains a House He Built
-datePublished: '2017-05-25T17:11:35.465Z'
-dateModified: '2017-05-25T17:11:34.741Z'
+datePublished: '2017-05-25T17:07:36.886Z'
+dateModified: '2017-05-25T17:06:54.618Z'
+datePublishedOriginal: '2017-05-25T17:07:36.886Z'
 via: {}
 inFeed: true
-sourcePath: _posts/2017-05-25-chris-explains-a-house-he-built.md
 starred: false
-datePublishedOriginal: '2017-05-25T17:07:36.886Z'
+sourcePath: _posts/2017-05-25-chris-explains-a-house-he-built.md
 _type: VideoObject
 _context: 'http://schema.org'
 
