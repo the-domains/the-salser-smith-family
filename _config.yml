@@ -1,0 +1,29 @@
+color:
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+  brandStrength: 0.2458662991411984
+  lightness: 0.06616187165491283
+  saturation: 0.6953598719555885
+  rhythmicContrast: 0.3279166794382036
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: The Salser-Smith Family
+layout_spectrum: 0.48981453594751656
+typography_spectrum: 0.4455417189747095
+content: []
+title: The Salser-Smith Family
+description: Coming Soon!
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/79edb758-24a0-4468-95de-1ad27be770a3.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/22a46475-6d6c-4d40-a1f3-db30b346e42d.png
+github: true
